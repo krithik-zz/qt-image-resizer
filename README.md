@@ -1,4 +1,9 @@
-Image Resizing Application  
-================================
-A QWidget based project, with multi-threading. The resizing runs on a seprate thread to prevent the GUI from being
-non-responsive for large loads. 
+Image Resizer 
+================
+Image Resizer - A simple image resizer 
+
+Dependencies
+------------
+- g++, make, qmake 
+- Qt >= 4.0
+
